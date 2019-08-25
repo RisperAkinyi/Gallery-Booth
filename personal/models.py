@@ -35,7 +35,7 @@ class Image(models.Model):
     location = models.ForeignKey(Location)
     category = models.ForeignKey(Category)
     image = models.ImageField(upload_to = 'imgs/')
-
+#save
     def save_image(self):
         self.save()
     def delete_image(self):
