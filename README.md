@@ -4,6 +4,13 @@
 This is a personal gallery application that display  photos 
 
 
+## BEHAVIOUR DRIVEN DEVELOPMENT(BDD)
+
+| Behaviour | Input                     | Output                    |
+| --------- | ------------------------- | ------------------------- |
+|Navigate to website| Click on an image | Image is expanded and further details of the image displayed |
+|Navigate to locations in navbar| Click on a location|Photos from that location are displayed|
+|Navigate to search input| Type in a photo category e.g Health|Photos of that particular category are displayed|
 
 
 ## SETUP
