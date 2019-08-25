@@ -6,7 +6,7 @@ class Location(models.Model):
 
     def __str__(self):
         return self.location_name
-
+# Save your models here.
     def save_location(self):
         self.save()
 
