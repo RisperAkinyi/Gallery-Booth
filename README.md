@@ -1,22 +1,9 @@
-## TITLE
-Django-Gallery
-
-## AUTHOR
-Roy Chela
+# Gallery Booth
 
 ## DESCRIPTION
-A django personal gallery application that displays my photos for others to see.
+This is a personal gallery application that display  photos 
 
-## DATE
-21/07/2019
 
-## BEHAVIOUR DRIVEN DEVELOPMENT(BDD)
-
-| Behaviour | Input                     | Output                    |
-| --------- | ------------------------- | ------------------------- |
-|Navigate to website| Click on an image | Image is expanded and further details of the image displayed |
-|Navigate to locations in navbar| Click on a location|Photos from that location are displayed|
-|Navigate to search input| Type in a photo category e.g cars|Photos of that particular category are displayed|
 
 
 ## SETUP
@@ -37,7 +24,7 @@ A django personal gallery application that displays my photos for others to see.
 3. [Pip](https://pip.pypa.io/en/stable/installing/)
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-git clone https://github.com/Roychela/DJANGO-GALLERY.git
+git clone https://github.com/RisperAkinyi/Gallery-Booth
 ```
 #### Initialize git and add the remote repository
 ```bash
@@ -86,7 +73,7 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 
 
 ## LIVE SITE
-Click [Live site](https://roy1gallery.herokuapp.com/) to view the deployed application
+Click [Live site]() to view the deployed application
 ## KNOWN BUGS
 None
 
@@ -98,4 +85,22 @@ None
 * Scss
 
 ## LICENSE
-[MIT](https://github.com/Roychela/DJANGO-GALLERY/blob/master/LICENSE)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Copyright (c) 2019 Risper Akinyi
