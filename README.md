@@ -80,7 +80,7 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 
 
 ## LIVE SITE
-Click [Live site](https://gallerybooth.herokuapp.com/) to view the deployed application
+Click [Live site](https://gellar.herokuapp.com/) to view the deployed application
 ## KNOWN BUGS
 None
 
